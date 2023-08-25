@@ -20,13 +20,23 @@ process facilitates quick data access and reduces the need for constant file rea
 
 # How to Use
 Clone this repository to your local machine.
+
 Navigate to the project directory and run the necessary setup commands.
+
 Import your data using Pandas DataFrames.
+
 Use the provided functions to create the temporary in-memory SQL database and push your data into it.
+
 Start executing SQL queries on the data using the integrated in-memory SQL capabilities.
 
-#Technologies Used
-Python
-Pandas
-Alchemy
-OpenAi API
+# Technologies Used
+--Python
+--Pandas
+--Alchemy
+--OpenAi API 
+
+# Contact 
+
+-- LinkedIn: https://www.linkedin.com/in/padraicwalsh20/ 
+
+-- Email: wpadraic@gmail.com
