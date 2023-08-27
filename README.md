@@ -1,42 +1,39 @@
 # PadraicWalsh.github.io
 
-# --Project-- In-Memory SQL Database with OpenAi API Integration
-Welcome to my project focused on creating an in-memory SQL database using your computer's RAM and seamlessly integrating data from Pandas DataFrames. This project 
-provides a solution for efficient data manipulation and analysis, leveraging the power of SQL queries in an in-memory environment.
+I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHub repository serves as a platform for me to showcase my projects, skills, and journey in the world of data. I'm passionate about leveraging data to gain insights, solve problems, and make informed decisions.
 
-# Project Goals
-Creating a Temporary In-Memory Database: I developed a Python script that creates a temporary in-memory database within my own RAM. This database is designed to hold 
-data for manipulation and analysis without the need for permanent storage.
+# About Me
+🎓 Recent graduate with a foundation degree in ATU Letterkenny IT.
+💼 Actively seeking opportunities in the field of Data Science.
+🌐 Check out my LinkedIn: https://www.linkedin.com/in/padraicwalsh20/
+📧 You can reach me at: wpadraic@gmail.com 
 
-Seamless Pandas Integration: You can easily push your Pandas DataFrames into the temporary in-memory database. This step ensures that data can be easily accessed and 
-queried within the temporary database.
+# Portfolio 
+--Project 1: 
 
-Efficient SQL Queries: One of the core functionalities of this project is the ability to perform SQL queries on the temporary in-memory database. Once the data is in 
-the in-memory database, you'll have the capability to do this. I implemented a SQL querying mechanism that enables users to extract meaningful insights from the 
-data stored in the database.
+--Project 2: 
 
-File-to-In-Memory Conversion: This project provides the ability to turn a file, possibly a CSV or Excel sheet, into an in-memory SQL database. This conversion 
-process facilitates quick data access and reduces the need for constant file reading and parsing.
+# Skills
+Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel & Power Bi
 
-# How to Use
-Clone this repository to your local machine.
+Data Visualization: I can create insightful visualizations to communicate findings effectively in python, using Deaborn and Plotly Express, as well as creating interactive dashboards on Microsoft Excel & Power Bi
 
-Navigate to the project directory and run the necessary setup commands.
+Programming Languages: Python, SQL (MySQL, Microsoft SQL Server)
 
-Import your data using Pandas DataFrames.
+Tools: Jupyter, Jupyter Lab, PyCharm, Visual Studio Code editor
 
-Use the provided functions to create the temporary in-memory SQL database and push your data into it.
+Communication: I believe I can effectively explain complex technical concepts to non-technical stakeholders.
 
-Start executing SQL queries on the data using the integrated in-memory SQL capabilities.
+# Repository Structure
+Project-1: Contains the code, data, and documentation for Project 1.
+Project-2: Contains the code, data, and documentation for Project 2.
 
-# Technologies Used
---Python
---Pandas
---Alchemy
---OpenAi API 
+# Reach Out
+I'm open to collaborations, discussions, and feedback! If you have any questions, suggestions, or just want to connect, feel free to reach out to me on LinkedIn or via email. 
+LinkedIn : https://www.linkedin.com/in/padraicwalsh20/
+Email: wpadraic@gmail.com
 
-# Contact 
+Thank you for visiting my portfolio repository. I hope you find my projects and insights interesting! Don't forget to ⭐️ star this repository if you like what you see!
 
--- LinkedIn: https://www.linkedin.com/in/padraicwalsh20/ 
-
--- Email: wpadraic@gmail.com
+Best regards,
+Padraic Walsh.
