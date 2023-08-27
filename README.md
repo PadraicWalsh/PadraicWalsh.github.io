@@ -9,8 +9,7 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 📧 You can reach me at: wpadraic@gmail.com 
 
 # Portfolio 
---Project 1: In Memory SQL DB with OpenAi API Integration, contains the code, data, and documentation for the project.
-
+--Project 1: This project looks to use natural prompts to return SQL commands, by creating a temporary in-memory DB, with my own RAM!
 --Project 2: Mock Exam Generator, coming soon!
 
 # Skills
@@ -25,8 +24,9 @@ Tools: Jupyter, Jupyter Lab, PyCharm, Visual Studio Code editor
 Communication: I believe I can effectively explain complex technical concepts to non-technical stakeholders.
 
 # Repository Structure
-Project-1: Contains the code, data, and documentation for Project 1.
-Project-2: Contains the code, data, and documentation for Project 2.
+Project-1: In Memory SQL DB with OpenAi API Integration, contains the code, data, and documentation for the project.
+
+Project-2: Mock Exam Generator, coming soon!
 
 # Reach Out
 I'm open to collaborations, discussions, and feedback! If you have any questions, suggestions, or just want to connect, feel free to reach out to me on LinkedIn or via email. 
