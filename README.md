@@ -10,6 +10,7 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 
 # Portfolio 
 --Project 1: This project looks to use natural prompts to return SQL commands, by creating a temporary in-memory DB, with my own RAM!
+
 --Project 2: Mock Exam Generator, coming soon!
 
 # Skills
