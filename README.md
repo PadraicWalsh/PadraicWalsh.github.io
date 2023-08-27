@@ -9,9 +9,9 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 📧 You can reach me at: wpadraic@gmail.com 
 
 # Portfolio 
---Project 1: 
+--Project 1: In Memory SQL DB with OpenAi API Integration, contains the code, data, and documentation for the project.
 
---Project 2: 
+--Project 2: Mock Exam Generator, coming soon!
 
 # Skills
 Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel & Power Bi
