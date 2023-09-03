@@ -16,7 +16,7 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 # Skills
 Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel & Power Bi
 
-Data Visualization: I can create insightful visualizations to communicate findings effectively in python, using Deaborn and Plotly Express, as well as creating interactive dashboards on Microsoft Excel & Power Bi
+Data Visualization: I can create insightful visualizations to communicate findings effectively in python, using Seaborn and Plotly Express, as well as creating interactive dashboards on Microsoft Excel & Power Bi
 
 Programming Languages: Python, SQL (MySQL, Microsoft SQL Server)
 
