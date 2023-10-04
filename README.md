@@ -11,7 +11,9 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 # Portfolio 
 --Project 1: This project looks to use natural language prompts to return SQL commands, by creating a temporary in-memory DB, with my own RAM!
 
---Project 2: Mock Exam Generator, coming soon!
+--Project 2: Analysis with python of the National Basketball Association (NBA), spanning from 1996 to 2022
+
+--Project 3: Mock Exam Generator, coming soon!
 
 # Skills
 Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel, Power Bi & Power Automate
