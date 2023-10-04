@@ -27,7 +27,9 @@ Communication: I believe I can effectively explain complex technical concepts to
 # Repository Structure
 Project-1: In Memory SQL DB with OpenAi API Integration, contains the code, data, and documentation for the project.
 
-Project-2: Mock Exam Generator, coming soon!
+Project-2: Analysis with Python of the National Basketball Association (NBA) spanning from 1996 to 2022
+
+Project-3: Mock Exam Generator, coming soon!
 
 # Reach Out
 I'm open to collaborations, discussions, and feedback! If you have any questions, suggestions, or just want to connect, feel free to reach out to me on LinkedIn or via email. 
