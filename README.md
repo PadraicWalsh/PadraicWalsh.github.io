@@ -14,7 +14,7 @@ I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHu
 --Project 2: Mock Exam Generator, coming soon!
 
 # Skills
-Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel & Power Bi
+Data Analysis: I'm proficient using Python for data analysis, in particular the pandas library, as well as Microsoft Excel, Power Bi & Power Automate
 
 Data Visualization: I can create insightful visualizations to communicate findings effectively in python, using Seaborn and Plotly Express, as well as creating interactive dashboards on Microsoft Excel & Power Bi
 
