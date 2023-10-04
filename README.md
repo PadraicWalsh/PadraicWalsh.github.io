@@ -29,7 +29,8 @@ Communication: I believe I can effectively explain complex technical concepts to
 # Repository Structure
 Project-1: In Memory SQL DB with OpenAi API Integration, contains the code, data, and documentation for the project.
 
-Project-2: Analysis with Python of the National Basketball Association (NBA) spanning from 1996 to 2022
+Project-2: NBA Analysis, data/: Contains the all_seasons.csv dataset
+                         notebooks/: Jupyter notebooks used for data cleaning, EDA, and visualization.
 
 Project-3: Mock Exam Generator, coming soon!
 
