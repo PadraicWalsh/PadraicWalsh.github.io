@@ -1,6 +1,6 @@
 # PadraicWalsh.github.io
 
-I'm Padraic, a recent graduate in the exciting field of Data Science. This GitHub repository serves as a platform for me to showcase my projects, skills, and journey in the world of data. I'm passionate about leveraging data to gain insights, solve problems, and make informed decisions.
+I'm Padraic, a recent graduate in Data Science. This GitHub repository serves as a platform for me to showcase my projects, skills, and journey in the world of data. I'm passionate about leveraging data to gain insights, solve problems, and make informed decisions.
 
 # About Me
 🎓 Recent graduate with a foundation degree in ATU Letterkenny IT.
